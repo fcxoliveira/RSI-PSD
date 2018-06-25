@@ -1,0 +1,568 @@
+RSSI: -64 Ch: 11 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 27 EID: 0 SSID: 
+Count: 162
+RSSI: -69 Ch: 11 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 27 EID: 0 SSID: 
+Count: 163
+RSSI: -48 Ch: 11 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 27 EID: 0 SSID: 
+Count: 165
+RSSI: -39 Ch: 11 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 27 EID: 0 SSID: 
+Count: 166
+RSSI: -36 Ch: 11 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 27 EID: 0 SSID: 
+Count: 167
+RSSI: -26 Ch: 11 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 28 EID: 0 SSID: 
+Count: 170
+RSSI: -27 Ch: 11 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 28 EID: 0 SSID: 
+Count: 174
+RSSI: -26 Ch: 11 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 28 EID: 0 SSID: 
+Count: 179
+RSSI: -27 Ch: 11 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 28 EID: 0 SSID: 
+Count: 181
+RSSI: -56 Ch: 2 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 28 EID: 0 SSID: 
+Count: 329
+RSSI: -53 Ch: 2 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 28 EID: 0 SSID: 
+Count: 330
+RSSI: -51 Ch: 2 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 28 EID: 0 SSID: 
+Count: 331
+RSSI: -54 Ch: 2 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 28 EID: 0 SSID: 
+Count: 332
+RSSI: -56 Ch: 2 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 28 EID: 0 SSID: 
+Count: 333
+RSSI: -57 Ch: 2 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 28 EID: 0 SSID: 
+Count: 334
+RSSI: -69 Ch: 6 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 30 EID: 0 SSID: 
+Count: 466
+RSSI: -40 Ch: 6 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 30 EID: 0 SSID: 
+Count: 470
+RSSI: -41 Ch: 6 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 30 EID: 0 SSID: 
+Count: 471
+RSSI: -39 Ch: 6 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 30 EID: 0 SSID: 
+Count: 472
+RSSI: -46 Ch: 6 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 30 EID: 0 SSID: 
+Count: 473
+RSSI: -41 Ch: 6 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 30 EID: 0 SSID: 
+Count: 474
+RSSI: -49 Ch: 6 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 30 EID: 0 SSID: 
+Count: 475
+RSSI: -70 Ch: 7 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 31 EID: 0 SSID: 
+Count: 476
+RSSI: -73 Ch: 7 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 31 EID: 0 SSID: 
+Count: 477
+RSSI: -79 Ch: 11 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 32 EID: 0 SSID: 
+Count: 626
+RSSI: -73 Ch: 11 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 32 EID: 0 SSID: 
+Count: 627
+RSSI: -74 Ch: 11 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 32 EID: 0 SSID: 
+Count: 628
+RSSI: -67 Ch: 11 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 32 EID: 0 SSID: 
+Count: 629
+RSSI: -67 Ch: 11 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 32 EID: 0 SSID: 
+Count: 630
+RSSI: -67 Ch: 11 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 33 EID: 0 SSID: 
+Count: 631
+RSSI: -70 Ch: 11 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 33 EID: 0 SSID: 
+Count: 632
+RSSI: -74 Ch: 1 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 33 EID: 0 SSID: 
+Count: 782
+RSSI: -79 Ch: 1 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 33 EID: 0 SSID: 
+Count: 783
+RSSI: -80 Ch: 2 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 35 EID: 0 SSID: 
+Count: 787
+RSSI: -80 Ch: 2 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 35 EID: 0 SSID: 
+Count: 788
+RSSI: -72 Ch: 5 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 36 EID: 0 SSID: 
+Count: 922
+RSSI: -74 Ch: 5 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 36 EID: 0 SSID: 
+Count: 923
+RSSI: -68 Ch: 5 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 37 EID: 0 SSID: 
+Count: 924
+RSSI: -69 Ch: 5 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 37 EID: 0 SSID: 
+Count: 925
+RSSI: -73 Ch: 5 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 37 EID: 0 SSID: 
+Count: 926
+RSSI: -74 Ch: 5 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 37 EID: 0 SSID: 
+Count: 927
+RSSI: -76 Ch: 10 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 39 EID: 0 SSID: 
+Count: 1139
+RSSI: -76 Ch: 10 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 39 EID: 0 SSID: 
+Count: 1140
+RSSI: -74 Ch: 10 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 39 EID: 0 SSID: 
+Count: 1141
+RSSI: -76 Ch: 10 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 39 EID: 0 SSID: 
+Count: 1142
+RSSI: -74 Ch: 10 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 39 EID: 0 SSID: 
+Count: 1143
+RSSI: -75 Ch: 10 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 39 EID: 0 SSID: 
+Count: 1144
+RSSI: -74 Ch: 1 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 39 EID: 0 SSID: 
+Count: 1361
+RSSI: -75 Ch: 1 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 39 EID: 0 SSID: 
+Count: 1362
+RSSI: -79 Ch: 1 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 39 EID: 0 SSID: 
+Count: 1363
+RSSI: -80 Ch: 10 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 42 EID: 0 SSID: 
+Count: 1483
+RSSI: -81 Ch: 10 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 42 EID: 0 SSID: 
+Count: 1484
+RSSI: -80 Ch: 10 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 42 EID: 0 SSID: 
+Count: 1485
+RSSI: -79 Ch: 10 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 42 EID: 0 SSID: 
+Count: 1486
+RSSI: -83 Ch: 10 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 42 EID: 0 SSID: 
+Count: 1487
+RSSI: -76 Ch: 1 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 44 EID: 0 SSID: 
+Count: 1750
+RSSI: -78 Ch: 1 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 44 EID: 0 SSID: 
+Count: 1753
+RSSI: -80 Ch: 1 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 44 EID: 0 SSID: 
+Count: 1756
+RSSI: -61 Ch: 4 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 46 EID: 0 SSID: 
+Count: 1972
+RSSI: -59 Ch: 4 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 46 EID: 0 SSID: 
+Count: 1973
+RSSI: -52 Ch: 4 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 46 EID: 0 SSID: 
+Count: 1974
+RSSI: -54 Ch: 4 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 46 EID: 0 SSID: 
+Count: 1975
+RSSI: -60 Ch: 4 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 46 EID: 0 SSID: 
+Count: 1976
+RSSI: -41 Ch: 9 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 48 EID: 0 SSID: 
+Count: 2073
+RSSI: -41 Ch: 9 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 48 EID: 0 SSID: 
+Count: 2075
+RSSI: -35 Ch: 9 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 48 EID: 0 SSID: 
+Count: 2076
+RSSI: -33 Ch: 10 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 48 EID: 0 SSID: 
+Count: 2077
+RSSI: -32 Ch: 10 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 48 EID: 0 SSID: 
+Count: 2078
+RSSI: -37 Ch: 10 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 49 EID: 0 SSID: 
+Count: 2079
+RSSI: -38 Ch: 10 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 49 EID: 0 SSID: 
+Count: 2080
+RSSI: -39 Ch: 10 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 49 EID: 0 SSID: 
+Count: 2081
+RSSI: -65 Ch: 13 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 50 EID: 0 SSID: 
+Count: 2198
+RSSI: -66 Ch: 13 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 50 EID: 0 SSID: 
+Count: 2199
+RSSI: -44 Ch: 4 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 51 EID: 0 SSID: 
+Count: 2320
+RSSI: -47 Ch: 4 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 51 EID: 0 SSID: 
+Count: 2321
+RSSI: -45 Ch: 4 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 51 EID: 0 SSID: 
+Count: 2322
+RSSI: -45 Ch: 4 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 51 EID: 0 SSID: 
+Count: 2323
+RSSI: -44 Ch: 4 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 51 EID: 0 SSID: 
+Count: 2324
+RSSI: -55 Ch: 4 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 51 EID: 0 SSID: 
+Count: 2325
+RSSI: -64 Ch: 4 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 51 EID: 0 SSID: 
+Count: 2326
+RSSI: -67 Ch: 5 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 52 EID: 0 SSID: 
+Count: 2327
+RSSI: -75 Ch: 5 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 52 EID: 0 SSID: 
+Count: 2328
+RSSI: -34 Ch: 8 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 53 EID: 0 SSID: 
+Count: 2383
+RSSI: -34 Ch: 8 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 53 EID: 0 SSID: 
+Count: 2384
+RSSI: -33 Ch: 8 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 53 EID: 0 SSID: 
+Count: 2385
+RSSI: -31 Ch: 8 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 53 EID: 0 SSID: 
+Count: 2386
+RSSI: -33 Ch: 8 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 53 EID: 0 SSID: 
+Count: 2387
+RSSI: -31 Ch: 8 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 53 EID: 0 SSID: 
+Count: 2388
+RSSI: -33 Ch: 9 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 53 EID: 0 SSID: 
+Count: 2389
+RSSI: -38 Ch: 9 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 53 EID: 0 SSID: 
+Count: 2390
+RSSI: -69 Ch: 9 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 54 EID: 0 SSID: 
+Count: 2392
+RSSI: -70 Ch: 9 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 54 EID: 0 SSID: 
+Count: 2395
+RSSI: -57 Ch: 9 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 54 EID: 0 SSID: 
+Count: 2396
+RSSI: -24 Ch: 10 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 55 EID: 0 SSID: 
+Count: 2397
+RSSI: -31 Ch: 10 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 55 EID: 0 SSID: 
+Count: 2398
+RSSI: -32 Ch: 10 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 55 EID: 0 SSID: 
+Count: 2399
+RSSI: -35 Ch: 10 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 55 EID: 0 SSID: 
+Count: 2400
+RSSI: -33 Ch: 10 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 55 EID: 0 SSID: 
+Count: 2401
+RSSI: -38 Ch: 10 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 55 EID: 0 SSID: 
+Count: 2402
+RSSI: -42 Ch: 1 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 55 EID: 0 SSID: 
+Count: 2404
+RSSI: -44 Ch: 1 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 56 EID: 0 SSID: 
+Count: 2405
+RSSI: -46 Ch: 1 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 56 EID: 0 SSID: 
+Count: 2406
+RSSI: -46 Ch: 1 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 56 EID: 0 SSID: 
+Count: 2407
+RSSI: -77 Ch: 1 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 56 EID: 0 SSID: 
+Count: 2410
+RSSI: -57 Ch: 3 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 57 EID: 0 SSID: 
+Count: 2418
+RSSI: -37 Ch: 3 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 57 EID: 0 SSID: 
+Count: 2424
+RSSI: -38 Ch: 3 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 57 EID: 0 SSID: 
+Count: 2429
+RSSI: -38 Ch: 3 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 57 EID: 0 SSID: 
+Count: 2430
+RSSI: -37 Ch: 3 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 57 EID: 0 SSID: 
+Count: 2431
+RSSI: -40 Ch: 3 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 57 EID: 0 SSID: 
+Count: 2432
+RSSI: -38 Ch: 3 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 58 EID: 0 SSID: 
+Count: 2433
+RSSI: -70 Ch: 3 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 58 EID: 0 SSID: 
+Count: 2434
+RSSI: -73 Ch: 3 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 58 EID: 0 SSID: 
+Count: 2435
+RSSI: -53 Ch: 6 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 59 EID: 0 SSID: 
+Count: 2515
+RSSI: -54 Ch: 6 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 59 EID: 0 SSID: 
+Count: 2516
+RSSI: -51 Ch: 6 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 59 EID: 0 SSID: 
+Count: 2517
+RSSI: -52 Ch: 6 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 59 EID: 0 SSID: 
+Count: 2518
+RSSI: -53 Ch: 6 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 59 EID: 0 SSID: 
+Count: 2519
+RSSI: -53 Ch: 6 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 60 EID: 0 SSID: 
+Count: 2520
+RSSI: -70 Ch: 4 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 61 EID: 0 SSID: 
+Count: 2615
+RSSI: -68 Ch: 4 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 61 EID: 0 SSID: 
+Count: 2616
+RSSI: -69 Ch: 4 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 61 EID: 0 SSID: 
+Count: 2617
+RSSI: -68 Ch: 4 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 61 EID: 0 SSID: 
+Count: 2618
+RSSI: -71 Ch: 4 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 61 EID: 0 SSID: 
+Count: 2619
+RSSI: -67 Ch: 4 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 61 EID: 0 SSID: 
+Count: 2620
+RSSI: -66 Ch: 4 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 61 EID: 0 SSID: 
+Count: 2621
+RSSI: -61 Ch: 5 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 61 EID: 0 SSID: 
+Count: 2622
+RSSI: -64 Ch: 5 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 61 EID: 0 SSID: 
+Count: 2623
+RSSI: -58 Ch: 9 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 63 EID: 0 SSID: 
+Count: 2817
+RSSI: -60 Ch: 9 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 63 EID: 0 SSID: 
+Count: 2819
+RSSI: -62 Ch: 10 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 63 EID: 0 SSID: 
+Count: 2820
+RSSI: -60 Ch: 10 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 63 EID: 0 SSID: 
+Count: 2826
+RSSI: -61 Ch: 10 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 63 EID: 0 SSID: 
+Count: 2831
+RSSI: -63 Ch: 10 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 63 EID: 0 SSID: 
+Count: 2832
+RSSI: -63 Ch: 10 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 63 EID: 0 SSID: 
+Count: 2833
+RSSI: -65 Ch: 5 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 66 EID: 0 SSID: 
+Count: 3095
+RSSI: -64 Ch: 5 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 66 EID: 0 SSID: 
+Count: 3096
+RSSI: -60 Ch: 5 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 66 EID: 0 SSID: 
+Count: 3097
+RSSI: -63 Ch: 5 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 66 EID: 0 SSID: 
+Count: 3098
+RSSI: -63 Ch: 5 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 66 EID: 0 SSID: 
+Count: 3099
+RSSI: -66 Ch: 5 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 66 EID: 0 SSID: 
+Count: 3100
+RSSI: -49 Ch: 9 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 68 EID: 0 SSID: 
+Count: 3228
+RSSI: -52 Ch: 9 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 68 EID: 0 SSID: 
+Count: 3229
+RSSI: -49 Ch: 10 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 68 EID: 0 SSID: 
+Count: 3230
+RSSI: -49 Ch: 10 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 68 EID: 0 SSID: 
+Count: 3231
+RSSI: -49 Ch: 10 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 68 EID: 0 SSID: 
+Count: 3232
+RSSI: -51 Ch: 10 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 68 EID: 0 SSID: 
+Count: 3233
+RSSI: -51 Ch: 10 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 68 EID: 0 SSID: 
+Count: 3234
+RSSI: -53 Ch: 10 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 68 EID: 0 SSID: 
+Count: 3235
+RSSI: -64 Ch: 10 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 68 EID: 0 SSID: 
+Count: 3236
+RSSI: -86 Ch: 10 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 69 EID: 0 SSID: 
+Count: 3237
+RSSI: -51 Ch: 11 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 70 EID: 0 SSID: 
+Count: 3238
+RSSI: -53 Ch: 11 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 70 EID: 0 SSID: 
+Count: 3242
+RSSI: -50 Ch: 11 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 70 EID: 0 SSID: 
+Count: 3246
+RSSI: -52 Ch: 11 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 70 EID: 0 SSID: 
+Count: 3248
+RSSI: -53 Ch: 11 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 70 EID: 0 SSID: 
+Count: 3249
+RSSI: -54 Ch: 11 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 70 EID: 0 SSID: 
+Count: 3250
+RSSI: -63 Ch: 11 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 70 EID: 0 SSID: 
+Count: 3251
+RSSI: -63 Ch: 13 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 72 EID: 0 SSID: 
+Count: 3489
+RSSI: -71 Ch: 13 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 73 EID: 0 SSID: 
+Count: 3490
+RSSI: -72 Ch: 13 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 73 EID: 0 SSID: 
+Count: 3491
+RSSI: -42 Ch: 13 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 73 EID: 0 SSID: 
+Count: 3492
+RSSI: -47 Ch: 13 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 73 EID: 0 SSID: 
+Count: 3493
+RSSI: -61 Ch: 8 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 74 EID: 0 SSID: 
+Count: 3533
+RSSI: -51 Ch: 8 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 74 EID: 0 SSID: 
+Count: 3534
+RSSI: -52 Ch: 8 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 74 EID: 0 SSID: 
+Count: 3535
+RSSI: -51 Ch: 8 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 74 EID: 0 SSID: 
+Count: 3536
+RSSI: -52 Ch: 8 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 74 EID: 0 SSID: 
+Count: 3537
+RSSI: -52 Ch: 8 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 74 EID: 0 SSID: 
+Count: 3539
+RSSI: -51 Ch: 8 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 74 EID: 0 SSID: 
+Count: 3543
+RSSI: -64 Ch: 9 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 76 EID: 0 SSID: 
+Count: 3547
+RSSI: -53 Ch: 9 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 76 EID: 0 SSID: 
+Count: 3548
+RSSI: -51 Ch: 9 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 76 EID: 0 SSID: 
+Count: 3549
+RSSI: -51 Ch: 9 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 76 EID: 0 SSID: 
+Count: 3550
+RSSI: -58 Ch: 9 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 76 EID: 0 SSID: 
+Count: 3551
+RSSI: -63 Ch: 9 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 76 EID: 0 SSID: 
+Count: 3552
+RSSI: -57 Ch: 9 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 76 EID: 0 SSID: 
+Count: 3553
+RSSI: -51 Ch: 10 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 76 EID: 0 SSID: 
+Count: 3554
+RSSI: -53 Ch: 10 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 76 EID: 0 SSID: 
+Count: 3555
+RSSI: -54 Ch: 12 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 78 EID: 0 SSID: 
+Count: 3744
+RSSI: -55 Ch: 12 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 78 EID: 0 SSID: 
+Count: 3745
+RSSI: -52 Ch: 12 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 78 EID: 0 SSID: 
+Count: 3746
+RSSI: -56 Ch: 12 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 78 EID: 0 SSID: 
+Count: 3747
+RSSI: -58 Ch: 13 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 78 EID: 0 SSID: 
+Count: 3748
+RSSI: -62 Ch: 13 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 78 EID: 0 SSID: 
+Count: 3749
+RSSI: -53 Ch: 2 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 78 EID: 0 SSID: 
+Count: 3888
+RSSI: -54 Ch: 2 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 78 EID: 0 SSID: 
+Count: 3889
+RSSI: -49 Ch: 2 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 78 EID: 0 SSID: 
+Count: 3890
+RSSI: -51 Ch: 2 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 78 EID: 0 SSID: 
+Count: 3891
+RSSI: -54 Ch: 2 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 78 EID: 0 SSID: 
+Count: 3892
+RSSI: -54 Ch: 2 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 78 EID: 0 SSID: 
+Count: 3893
+RSSI: -60 Ch: 6 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 80 EID: 0 SSID: 
+Count: 4033
+RSSI: -61 Ch: 6 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 80 EID: 0 SSID: 
+Count: 4034
+RSSI: -57 Ch: 6 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 80 EID: 0 SSID: 
+Count: 4035
+RSSI: -58 Ch: 6 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 80 EID: 0 SSID: 
+Count: 4036
+RSSI: -57 Ch: 6 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 81 EID: 0 SSID: 
+Count: 4037
+RSSI: -55 Ch: 7 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 81 EID: 0 SSID: 
+Count: 4038
+RSSI: -55 Ch: 7 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 81 EID: 0 SSID: 
+Count: 4039
+RSSI: -56 Ch: 7 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 81 EID: 0 SSID: 
+Count: 4040
+RSSI: -48 Ch: 12 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 83 EID: 0 SSID: 
+Count: 4178
+RSSI: -50 Ch: 12 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 83 EID: 0 SSID: 
+Count: 4179
+RSSI: -47 Ch: 12 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 83 EID: 0 SSID: 
+Count: 4180
+RSSI: -48 Ch: 12 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 83 EID: 0 SSID: 
+Count: 4181
+RSSI: -48 Ch: 12 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 83 EID: 0 SSID: 
+Count: 4182
+RSSI: -52 Ch: 12 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 83 EID: 0 SSID: 
+Count: 4183
+RSSI: -59 Ch: 2 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 83 EID: 0 SSID: 
+Count: 4334
+RSSI: -59 Ch: 2 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 83 EID: 0 SSID: 
+Count: 4335
+RSSI: -61 Ch: 2 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 83 EID: 0 SSID: 
+Count: 4336
+RSSI: -67 Ch: 2 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 83 EID: 0 SSID: 
+Count: 4337
+RSSI: -58 Ch: 6 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 85 EID: 0 SSID: 
+Count: 4474
+RSSI: -54 Ch: 6 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 85 EID: 0 SSID: 
+Count: 4475
+RSSI: -52 Ch: 6 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 85 EID: 0 SSID: 
+Count: 4476
+RSSI: -55 Ch: 6 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 85 EID: 0 SSID: 
+Count: 4479
+RSSI: -59 Ch: 6 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 85 EID: 0 SSID: 
+Count: 4480
+RSSI: -63 Ch: 6 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 85 EID: 0 SSID: 
+Count: 4481
+RSSI: -58 Ch: 6 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 85 EID: 0 SSID: 
+Count: 4482
+RSSI: -65 Ch: 7 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 86 EID: 0 SSID: 
+Count: 4483
+RSSI: -60 Ch: 7 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 86 EID: 0 SSID: 
+Count: 4484
+RSSI: -67 Ch: 7 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 87 EID: 0 SSID: 
+Count: 4496
+RSSI: -51 Ch: 8 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 87 EID: 0 SSID: 
+Count: 4497
+RSSI: -49 Ch: 8 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 87 EID: 0 SSID: 
+Count: 4498
+RSSI: -48 Ch: 8 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 87 EID: 0 SSID: 
+Count: 4499
+RSSI: -50 Ch: 8 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 87 EID: 0 SSID: 
+Count: 4500
+RSSI: -50 Ch: 8 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 87 EID: 0 SSID: 
+Count: 4501
+RSSI: -55 Ch: 8 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 87 EID: 0 SSID: 
+Count: 4502
+RSSI: -78 Ch: 8 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 88 EID: 0 SSID: 
+Count: 4503
+RSSI: -57 Ch: 11 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 89 EID: 0 SSID: 
+Count: 4651
+RSSI: -57 Ch: 11 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 89 EID: 0 SSID: 
+Count: 4652
+RSSI: -53 Ch: 11 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 89 EID: 0 SSID: 
+Count: 4653
+RSSI: -54 Ch: 11 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 89 EID: 0 SSID: 
+Count: 4654
+RSSI: -55 Ch: 11 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 89 EID: 0 SSID: 
+Count: 4655
+RSSI: -58 Ch: 11 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 89 EID: 0 SSID: 
+Count: 4656
+RSSI: -55 Ch: 2 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 90 EID: 0 SSID: 
+Count: 4836
+RSSI: -55 Ch: 2 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 90 EID: 0 SSID: 
+Count: 4837
+RSSI: -55 Ch: 2 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 90 EID: 0 SSID: 
+Count: 4838
+RSSI: -58 Ch: 2 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 90 EID: 0 SSID: 
+Count: 4840
+RSSI: -51 Ch: 6 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 92 EID: 0 SSID: 
+Count: 5019
+RSSI: -52 Ch: 6 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 92 EID: 0 SSID: 
+Count: 5020
+RSSI: -49 Ch: 6 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 92 EID: 0 SSID: 
+Count: 5021
+RSSI: -50 Ch: 6 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 92 EID: 0 SSID: 
+Count: 5022
+RSSI: -49 Ch: 7 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 92 EID: 0 SSID: 
+Count: 5023
+RSSI: -49 Ch: 7 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 92 EID: 0 SSID: 
+Count: 5024
+RSSI: -80 Ch: 7 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 93 EID: 0 SSID: 
+Count: 5025
+RSSI: -81 Ch: 10 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 93 EID: 0 SSID: 
+Count: 5118
+RSSI: -78 Ch: 11 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 94 EID: 0 SSID: 
+Count: 5119
+RSSI: -57 Ch: 11 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 94 EID: 0 SSID: 
+Count: 5120
+RSSI: -50 Ch: 11 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 94 EID: 0 SSID: 
+Count: 5121
+RSSI: -51 Ch: 11 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 94 EID: 0 SSID: 
+Count: 5122
+RSSI: -44 Ch: 11 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 94 EID: 0 SSID: 
+Count: 5123
+RSSI: -46 Ch: 11 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 94 EID: 0 SSID: 
+Count: 5124
+RSSI: -45 Ch: 11 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 94 EID: 0 SSID: 
+Count: 5125
+RSSI: -46 Ch: 11 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 94 EID: 0 SSID: 
+Count: 5126
+RSSI: -49 Ch: 1 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 94 EID: 0 SSID: 
+Count: 5343
+RSSI: -48 Ch: 1 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 94 EID: 0 SSID: 
+Count: 5344
+RSSI: -53 Ch: 1 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 95 EID: 0 SSID: 
+Count: 5345
+RSSI: -51 Ch: 1 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 95 EID: 0 SSID: 
+Count: 5346
+RSSI: -60 Ch: 1 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 95 EID: 0 SSID: 
+Count: 5347
+RSSI: -52 Ch: 2 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 96 EID: 0 SSID: 
+Count: 5348
+RSSI: -51 Ch: 2 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 96 EID: 0 SSID: 
+Count: 5349
+RSSI: -56 Ch: 2 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 96 EID: 0 SSID: 
+Count: 5350
+RSSI: -57 Ch: 2 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 96 EID: 0 SSID: 
+Count: 5351
+RSSI: -58 Ch: 3 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 96 EID: 0 SSID: 
+Count: 5352
+RSSI: -66 Ch: 3 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 97 EID: 0 SSID: 
+Count: 5353
+RSSI: -64 Ch: 5 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 98 EID: 0 SSID: 
+Count: 5446
+RSSI: -59 Ch: 5 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 98 EID: 0 SSID: 
+Count: 5447
+RSSI: -59 Ch: 5 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 98 EID: 0 SSID: 
+Count: 5448
+RSSI: -55 Ch: 5 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 98 EID: 0 SSID: 
+Count: 5449
+RSSI: -54 Ch: 6 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 98 EID: 0 SSID: 
+Count: 5450
+RSSI: -56 Ch: 6 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 98 EID: 0 SSID: 
+Count: 5451
+RSSI: -78 Ch: 9 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 100 EID: 0 SSID: 
+Count: 5571
+RSSI: -47 Ch: 10 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 100 EID: 0 SSID: 
+Count: 5572
+RSSI: -44 Ch: 10 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 100 EID: 0 SSID: 
+Count: 5573
+RSSI: -45 Ch: 10 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 100 EID: 0 SSID: 
+Count: 5574
+RSSI: -45 Ch: 10 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 100 EID: 0 SSID: 
+Count: 5575
+RSSI: -47 Ch: 10 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 101 EID: 0 SSID: 
+Count: 5576
+RSSI: -48 Ch: 10 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 101 EID: 0 SSID: 
+Count: 5577
+RSSI: -54 Ch: 10 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 101 EID: 0 SSID: 
+Count: 5578
+RSSI: -72 Ch: 5 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 103 EID: 0 SSID: 
+Count: 5826
+RSSI: -50 Ch: 5 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 103 EID: 0 SSID: 
+Count: 5829
+RSSI: -52 Ch: 5 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 103 EID: 0 SSID: 
+Count: 5830
+RSSI: -50 Ch: 5 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 103 EID: 0 SSID: 
+Count: 5831
+RSSI: -51 Ch: 5 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 103 EID: 0 SSID: 
+Count: 5832
+RSSI: -69 Ch: 5 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 103 EID: 0 SSID: 
+Count: 5833
+RSSI: -54 Ch: 5 Peer MAC: 38:9a:f6:97:3e:97 SEQ: 103 EID: 0 SSID: 
+Count: 5834
