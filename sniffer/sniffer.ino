@@ -91,11 +91,14 @@ static void showMetadata(SnifferPacket *snifferPacket) {
   uint8_t EID = snifferPacket->data[24];
   Serial.print(" EID: ");
   Serial.print(EID);
-
   uint8_t SSID_length = snifferPacket->data[25];
   Serial.print(" SSID: ");
   printDataSpan(26, SSID_length, snifferPacket->data);
-
+  float temp = millis();
+  float tempo = temp/1000;
+  Serial.print(" Time: ");
+  Serial.print(tempo);
+  
   Serial.println();
 
   Serial.print("Count: ");

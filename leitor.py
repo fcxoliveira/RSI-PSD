@@ -24,7 +24,7 @@ def readSerial():
         return (response, 'ERROR')
 
 
-arqName = creatNewTxt('probListLog')
+arqName = creatNewTxt('Livraria Cultura' +str(time.time()))
 #arqErrorName = creatNewTxt('Error - probListLog')
 #timeStamp = time.time()
 error = True
