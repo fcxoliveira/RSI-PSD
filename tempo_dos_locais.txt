@@ -1,0 +1,7 @@
+area-caixa;17:00:00;17:04:00
+area-fora_da_cultura;17:05:00;17:07:00
+area-infantil;17:07:00;17:12:00
+area-leitura1;17:12:00;17:19:00
+area-leitura2;17:19:00;17:22:00
+area-geek;17:23:00;17:30:00
+area-literatura1;17:31:00;17:32:00
